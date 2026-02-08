@@ -39,6 +39,7 @@ export default function Weather() {
           placeholder="Type your city...."
         />
         <input type="submit" value="Search"></input>
+        <p><a href="https://github.com/IlsaKQureshi/shecodes-weather-react">open-source code</a> on Github by Ilsa Khurshid Qureshi</p>
       </form>
 
       {tempdata ? (
